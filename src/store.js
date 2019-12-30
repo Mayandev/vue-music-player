@@ -20,6 +20,7 @@ export default new Vuex.Store({
       state.isPlaying = toggle !== undefined ? toggle : !state.isPlaying
     },
     changeCover (state) {
+      // eslint-disable-next-line no-constant-condition
       while (1) {
         const index = Math.floor(Math.random() * 3)
         const coverUrl = COVER_URL[index]
