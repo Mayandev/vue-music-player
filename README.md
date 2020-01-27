@@ -1,24 +1,2 @@
 # vue-music-player
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+一个漂亮的音乐播放器，使用 vue 构建，在线体验：https://mayandev.github.io/vue-music-player/
